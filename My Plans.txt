@@ -1,3 +1,4 @@
 Here is my plans about my development progress:
   - Finished Curtledge
   - Makes Curtledge to be a great website
+  - Makes a App Version of Curtledge
